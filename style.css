@@ -144,6 +144,10 @@ a:hover {
   transform: none;
 }
 
+.img_rounded {
+  border-radius: 50%;
+}
+
 /* SECTIONS */
 
 section {
