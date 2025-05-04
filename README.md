@@ -1,1 +1,1 @@
-Link to my protfolio : https://gjlywg.csb.app/
+Link to my protfolio : https://chrisgeorgeportfolio.vercel.app/
